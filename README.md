@@ -6,11 +6,11 @@ Overview
 IlluminAI extracts, processes, and analyzes data about lighting, objects, world settings, and render settings in Blender scenes. The goal of the project is to provide a better understanding of light interactions in 3D scenes and enable innovative AI-driven techniques for lighting design and rendering in Blender.
 Features
 
-    Data Extraction: Using Blender's Python API, the project includes scripts for extracting comprehensive data about Blender scenes, including details about lights, objects, world settings, and render settings.
+Data Extraction: Using Blender's Python API, the project includes scripts for extracting comprehensive data about Blender scenes, including details about lights, objects, world settings, and render settings.
 
-    Data Processing & Analysis: The extracted data is processed and stored in an efficient format for subsequent analysis. This processing includes features like calculating distances between objects and lights, and decomposing light color into individual color channels.
+Data Processing & Analysis: The extracted data is processed and stored in an efficient format for subsequent analysis. This processing includes features like calculating distances between objects and lights, and decomposing light color into individual color channels.
 
-    AI-driven Insights: The ultimate goal of the project is to provide AI-driven insights about lighting in 3D scenes. This could include predicting optimal lighting settings, generating new lighting designs, or understanding how changes in the scene affect the lighting.
+AI-driven Insights: The ultimate goal of the project is to provide AI-driven insights about lighting in 3D scenes. This could include predicting optimal lighting settings, generating new lighting designs, or understanding how changes in the scene affect the lighting.
 
 Usage
 
